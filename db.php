@@ -3,7 +3,7 @@
 class Produto {
     private $conn;   
     private $host = "65.108.237.84";
-    private $db = "prog_web";
+    private $db = "escola";
     private $user = "usrapp";
     private $pass = "010203";
     

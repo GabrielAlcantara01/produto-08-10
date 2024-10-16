@@ -12,8 +12,8 @@ echo 'Olá, mundo';
 ?>
 
 <div class="button-container">
-    <button onclick="window.location.href='produto-cadastrar.php';">Adicionar Produto</button>
-    <button onclick="window.location.href='produto-listar.php';">Listar Produtos</button>
+    <button onclick="window.location.href='aluno-cadastrar.php';">Adicionar Aluno</button>
+    <button onclick="window.location.href='aluno-listar.php';">Listar Alunos</button>
 </div>
 
 </body>
